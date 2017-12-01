@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "636463182531",
+    "firebase_url": "https://calendartest-d5d0e.firebaseio.com",
+    "project_id": "calendartest-d5d0e",
+    "storage_bucket": "calendartest-d5d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636463182531:android:33533570f8d5df94",
+        "android_client_info": {
+          "package_name": "br.com.leucotron.notificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636463182531-qloo529j648j80ukbv9lkmpf76e4nfma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPwh5tYqkMwU9UI6hIKeAvggZ5n2H9yNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
